@@ -2,6 +2,8 @@
 
 projeto desenvolvido em reactnative usado para uma teste.
 
+![](https://user-images.githubusercontent.com/13289584/180912940-48a08f23-b280-4560-a95a-f4cfe27ba785.jpeg)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
